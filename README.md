@@ -1,5 +1,5 @@
-# Name the certificate
-## Add names in the certificate automatically using python.
+# Name The Certificate
+## Add names in the certificate automatically using Python3.
 
 ## NOTE
 If any folder contain *empty_file.txt*, please remove it.\
@@ -51,6 +51,6 @@ python name_the_certificate.py
 After executing the script, an image will appear.\
 Select the area where, you want to add the *name* using the mouse.\
 Press the 'q' button in the keyaboard.\
-All certificates will be created in the certificate folder.\
+All certificates will be created in the certificate folder.
 
 
